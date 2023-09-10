@@ -1,0 +1,160 @@
+section{
+    padding: 80px 0;
+  }
+  @media screen and (max-width:992px) {
+    section{
+      padding: 60px 0;
+    }
+    
+  }
+.bannerImg{
+    position: relative;
+    background-image: url('https://d2xamzlzrdbdbn.cloudfront.net/imagesrewamp/Faqs/About-Banner.jpg') ;
+    min-height: 295px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bannercontent{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+h2 {
+    font-family: 'RobotoRegular',sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    color:#7ebfef;
+}
+span.desc {
+    font-family: RobotoLight,sans-serif;
+    font-size: 24px;
+    color: #000;
+    Opacity: .87;
+    width: 366px;
+    display: block;
+}
+
+@media screen and (max-width:576px) {
+    span.desc {
+        width: 250px;
+    }
+}
+
+.AboutUsHead {
+    margin-top: 60px;
+    text-align: center;
+}
+.AboutUsBody {
+    margin-top: 30px;
+}
+.memberHead {
+    margin-top: 60px;
+    text-align: center;
+}
+.column {
+    float: left;
+    width: 13.2%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+  }
+  
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+  
+  .container-1 {
+    padding: 0 16px;
+  }
+  
+  .container-1::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .title {
+    color: grey;
+  }
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }  
+  .insightsHead {
+    margin-top: 90px;
+    text-align: center;
+}
+.insightsBody {
+    margin-top: 25px;
+}
+.insightsPara {
+    max-width: 800px;
+    margin: auto;
+}
+.MessageHead {
+    margin-top: 60px;
+    text-align: center;
+}
+.messageBody{
+    margin-top: 80px;   
+}
+.messageQoute{
+    max-width: 500px;
+    width: 100%;
+    padding: 60px 40px;
+    margin: auto;
+    box-shadow: 0 0 50px #cacaca;
+    background-color: #fff;
+    position: relative;
+}
+.messageBx img {
+    position: absolute;
+    top: -55px;
+    left: -45px;
+    width: 90px;
+}
+.messageBx p {
+    font-family: RobotoRegular,sans-serif;
+    font-size: 15px;
+    color: #000;
+    Opacity: .87;
+    text-transform: capitalize;
+    text-align: center;
+}
+.messageBx span {
+    font-family: RobotoMedium,sans-serif;
+    font-size: 12px;
+    color: #ed1c24;
+    text-transform: uppercase;
+    float: right;
+    display: inline-block;
+    margin-top: 5px;
+}
+.messagePara{
+    max-width: 800px;
+    margin: auto;
+    margin-top: 120px;
+}
+.missionHead {
+    margin-top: 60px;
+    text-align: center;
+}
+.missionBody{
+    margin-top: 25px;
+}
+.missionPara{
+    max-width: 800px;
+    margin: auto;
+}

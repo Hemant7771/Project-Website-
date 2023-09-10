@@ -1,0 +1,50 @@
+
+.best-seller-section {
+    background-color: #EEF7FF;
+}
+
+.shopby-text {
+    font-size: 12px;
+    font-weight: 700;
+    color: #496CFA;
+    margin-top: 10px;
+}
+
+.categories-text {
+    font-size: 24px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+
+
+.section-head-wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-head {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.section-head-btn {
+    display: flex;
+    align-items: center;
+}
+
+.section-head-btn a {
+    padding: 5px 20px;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    background-color: #f0f0f0;
+    color: #000;
+}
+.section-head-btn button {
+    padding: 5px 20px;
+    outline: none;
+    border: none;
+    text-decoration: none
+}
