@@ -28,7 +28,7 @@ const Footer = () => {
                                         </path>
                                         <polyline points="22,6 12,13 2,6"></polyline>
                                     </svg>
-                                    <span className="footer-contact">info@oyefish.in</span>
+                                    <span className="footer-contact">info@team.in</span>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@ const Footer = () => {
                             <h6 className="list-heading">Useful Links</h6>
                             <ul className="footer-list">
                                 <li className="footer-list-items">
-                                    <Link className="footer-list-link" to="/"> Why OyeFish
+                                    <Link className="footer-list-link" to="/">Gada Electronics
                                     </Link>
                                 </li>
                                 <li className="footer-list-items"> <Link className="footer-list-link" to="/"> FAQs
@@ -155,7 +155,7 @@ const Footer = () => {
                 <div className="last-footer">
                     <span>©Copyright 2023 Gada Electronics.</span>
                     <span> All right reserved.</span>
-                    <span>Designed by Tabish Khan</span>
+                    <span>Designed by Tabish Khan & Team</span>
                 </div>
             </footer>
         </>

@@ -48,7 +48,7 @@ const Testimonial = () => {
                         </div>
 
                         <div class="card-content">
-                            <h2 class="name">john</h2>
+                            <h2 class="name">Tabish</h2>
                             <p class="description">The <b> Gada shop</b> website is best for shopping 
                                 it provide product at very reasonable rate and offer to the customers. 
                                 It best service is pay later facilities.
@@ -70,7 +70,7 @@ const Testimonial = () => {
                         </div>
 
                         <div class="card-content">
-                            <h2 class="name">john</h2>
+                            <h2 class="name">Hemant</h2>
                             <p class="description">The <b> Gada shop</b> website is best for shopping 
                                 it provide product at very reasonable rate and offer to the customers. 
                                 It best service is pay later facilities.
@@ -92,7 +92,7 @@ const Testimonial = () => {
                         </div>
 
                         <div class="card-content">
-                            <h2 class="name">john</h2>
+                            <h2 class="name">Yesmeena</h2>
                             <p class="description">The <b> Gada shop</b> website is best for shopping 
                                 it provide product at very reasonable rate and offer to the customers. 
                                 It best service is pay later facilities.
@@ -114,95 +114,7 @@ const Testimonial = () => {
                         </div>
 
                         <div class="card-content">
-                            <h2 class="name">john</h2>
-                            <p class="description">The <b> Gada shop</b> website is best for shopping 
-                                it provide product at very reasonable rate and offer to the customers. 
-                                It best service is pay later facilities.
-                                   it helpful in emergency and 
-                                  fast delivery other than other e commerce site.
-                            </p>
-                            <button class="button">View more</button>
-                        </div>
-                    </div>
-            </SplideSlide>
-            <SplideSlide>
-                
-            <div class="card-1 mx-auto">
-                        <div class="image-content">
-                            <span class="overlay-1"></span>
-                            <div class="card-image">
-                                <img src={Sliderimg5} alt=""  class="card-img"/>
-                            </div>
-                        </div>
-
-                        <div class="card-content">
-                            <h2 class="name">john</h2>
-                            <p class="description">The <b> Gada shop</b> website is best for shopping 
-                                it provide product at very reasonable rate and offer to the customers. 
-                                It best service is pay later facilities.
-                                   it helpful in emergency and 
-                                  fast delivery other than other e commerce site.
-                            </p>
-                            <button class="button">View more</button>
-                        </div>
-                    </div>
-            </SplideSlide>
-            <SplideSlide>
-                
-            <div class="card-1 mx-auto">
-                        <div class="image-content">
-                            <span class="overlay-1"></span>
-                            <div class="card-image">
-                                <img src={Sliderimg6} alt=""  class="card-img"/>
-                            </div>
-                        </div>
-
-                        <div class="card-content">
-                            <h2 class="name">john</h2>
-                            <p class="description">The <b> Gada shop</b> website is best for shopping 
-                                it provide product at very reasonable rate and offer to the customers. 
-                                It best service is pay later facilities.
-                                   it helpful in emergency and 
-                                  fast delivery other than other e commerce site.
-                            </p>
-                            <button class="button">View more</button>
-                        </div>
-                    </div>
-            </SplideSlide>
-            <SplideSlide>
-                
-            <div class="card-1 mx-auto mx-auto">
-                        <div class="image-content">
-                            <span class="overlay-1"></span>
-                            <div class="card-image">
-                                <img src={Sliderimg7} alt=""  class="card-img"/>
-                            </div>
-                        </div>
-
-                        <div class="card-content">
-                            <h2 class="name">john</h2>
-                            <p class="description">The <b> Gada shop</b> website is best for shopping 
-                                it provide product at very reasonable rate and offer to the customers. 
-                                It best service is pay later facilities.
-                                   it helpful in emergency and 
-                                  fast delivery other than other e commerce site.
-                            </p>
-                            <button class="button">View more</button>
-                        </div>
-                    </div>
-            </SplideSlide>
-            <SplideSlide>
-                
-            <div class="card-1 mx-auto">
-                        <div class="image-content">
-                            <span class="overlay-1"></span>
-                            <div class="card-image">
-                                <img src={Sliderimg8} alt=""  class="card-img"/>
-                            </div>
-                        </div>
-
-                        <div class="card-content">
-                            <h2 class="name">john</h2>
+                            <h2 class="name">Avani</h2>
                             <p class="description">The <b> Gada shop</b> website is best for shopping 
                                 it provide product at very reasonable rate and offer to the customers. 
                                 It best service is pay later facilities.
